@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chertenokru/react-movies/static/css/main.8953730c.chunk.css",
+    "main.js": "/chertenokru/react-movies/static/js/main.2477a009.chunk.js",
+    "main.js.map": "/chertenokru/react-movies/static/js/main.2477a009.chunk.js.map",
+    "runtime-main.js": "/chertenokru/react-movies/static/js/runtime-main.f71e6a6f.js",
+    "runtime-main.js.map": "/chertenokru/react-movies/static/js/runtime-main.f71e6a6f.js.map",
+    "static/js/2.7d4c0208.chunk.js": "/chertenokru/react-movies/static/js/2.7d4c0208.chunk.js",
+    "static/js/2.7d4c0208.chunk.js.map": "/chertenokru/react-movies/static/js/2.7d4c0208.chunk.js.map",
+    "index.html": "/chertenokru/react-movies/index.html",
+    "static/css/main.8953730c.chunk.css.map": "/chertenokru/react-movies/static/css/main.8953730c.chunk.css.map",
+    "static/js/2.7d4c0208.chunk.js.LICENSE.txt": "/chertenokru/react-movies/static/js/2.7d4c0208.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f71e6a6f.js",
+    "static/js/2.7d4c0208.chunk.js",
+    "static/css/main.8953730c.chunk.css",
+    "static/js/main.2477a009.chunk.js"
+  ]
+}

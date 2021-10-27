@@ -1,0 +1,2 @@
+nav{padding:0 1rem}.content{min-height:calc(100vh - 134px);padding:1.5rem 0}.movies{display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));grid-gap:.5rem 1rem;gap:.5rem 1rem}.search{position:absolute;top:0;right:.5rem}label{margin-right:1rem}[type=radio].with-gap:checked+span:after{background-color:#43a047!important}[type=radio].with-gap:checked+span:after,[type=radio].with-gap:checked+span:before{border:2px solid #43a047!important}
+/*# sourceMappingURL=main.8953730c.chunk.css.map */
