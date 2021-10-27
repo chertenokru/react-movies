@@ -1,0 +1,32 @@
+﻿nav {
+    padding: 0 1rem;
+}
+.content{
+    min-height: calc(100vh - 70px - 64px);
+    padding: 1.5rem 0;
+}
+.movies{
+   display:grid;
+    grid-template-columns: repeat(auto-fill,minmax(350px,1fr));
+    gap: 0.5rem 1rem;
+}
+.movie {
+    
+}
+.search{
+    position: absolute;
+    top:0px;
+    right: 0.5rem;
+}
+label {
+    margin-right: 1rem;
+}
+
+[type="radio"].with-gap:checked+span:after {
+    background-color: #43a047  !important;
+}
+
+[type="radio"].with-gap:checked+span:before,
+[type="radio"].with-gap:checked+span:after {
+    border: 2px solid #43a047  !important;
+}
