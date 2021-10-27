@@ -29,8 +29,9 @@ export class Search extends React.Component {
                             value={this.state.search}
                             minLength="1"
                             onChange={event => this.setState({'search': event.target.value})}
+                            onKeyDown={event =>{ if (event.key === 'Enter') this.props.updateSearch(this.state.search,this.state.type)} }
                         />
-                        <div>
+                        <div className="searchRadio">
                             <label ><input className="with-gap" type="radio" name='type' data-type='all' 
                                           checked={this.state.type==='all'}
                                           onChange={this.handleChecked}/>

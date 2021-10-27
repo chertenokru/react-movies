@@ -1,7 +1,7 @@
 export function CardMovie(props) {
     const {Poster, Title, Type, Year, imdbID} = props.movie;
     return <>
-        <div className="card horizontal hoverable movie activator">
+        <div className="card horizontal hoverable movie ">
             <div className="card-image">
                 {Poster === 'N/A' ?
                     <img alt={Title} src={`https://via.placeholder.com/300x400.png?text=${Title}`}/>
